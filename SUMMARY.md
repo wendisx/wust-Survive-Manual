@@ -13,6 +13,7 @@
     * [思维转变](determine/Mindchange/README.md)
         * [高考思维(错误的思维模式)](determine/Mindchange/GaoKao.md)
         * [被动思维](determine/Mindchange/BeDone.md)
+        * [大学思维](determine/Mindchange/College.md)
     * [学习方向](determine/Directions.md)
     * [反对PUA](determine/StopPUA.md)
     * [交友法则](determine/MakeFriendsRule.md)
